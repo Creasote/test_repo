@@ -1,2 +1,2 @@
 # test_repo
-Simple test repo, used for getting a handle on github.
+It's hard to type with a dog sitting on your keyboard.
